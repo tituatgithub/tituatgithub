@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **__about LLMs___**
 
-- 👯 I’m looking to collaborate on **___Research_projects__**
+- 👯 I’m looking to collaborate on **___NLP_related_Research_projects__**
 
 - 📫 Contact me **__divyansh22@iiserb.ac.in___**
 
