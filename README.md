@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## 🛠️ Skills
 - **Programming Languages**: Python, C, Stata, Matlab  
 - **Tools & Libraries**: Flask, PyTorch, OpenCV, DINO, NLTK, Pandas, Keras, TensorFlow, Ollama, Docker, Open sourced LLMs
-- **Operating Systems**: Windows, Linux  
+- **Operating Systems**: Windows, Linux, Ros2
 - **Other Skills**: Data Analysis, Sentiment Analysis, Machine Learning  
 
 ---
