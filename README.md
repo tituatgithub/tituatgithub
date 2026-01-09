@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 🎓 **BS in Data Science**  
 📍 Indian Institute of Science Education & Research, Bhopal  
-💻 Passionate about Machine Learning, Computer Vision, and NLP  
+💻 Passionate about Machine Learning, Computer Vision,Graphs, Speech signal, and NLP  
 
 ---
 
