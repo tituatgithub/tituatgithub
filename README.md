@@ -74,7 +74,7 @@
 ### :scroll: Auto-scrolling
 
 
-![scroll](https://typograssy.deno.dev/api?text=atleast+trees+and+pillars+have+permanent+stand.&l=T&r=T&v=2)
+![scroll](https://typograssy.deno.dev/api?text=Atleast%20Trees%20and%20Pillars%20have%20a%20Permanent%20Stand!!!&l1=9bc7e9&l2=40c4b5&l3=30a199&l4=216e61&comment=&l=T&r=T&v=2)
 
 The pixels will scroll if the text can't be shown at once.
 
