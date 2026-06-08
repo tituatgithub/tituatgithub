@@ -1,6 +1,6 @@
 <h1 align="center">Divyansh Pathak</h1>
 
-<h3 align="center">Researcher in training &nbsp;|&nbsp; ML • CV • NLP &nbsp;|&nbsp; Building things I don't fully understand yet</h3>
+<h3 align="center">Researcher in training &nbsp;|&nbsp; ML • CV • NLP &nbsp;|&nbsp; Learning more every single day </h3>
 
 
 
