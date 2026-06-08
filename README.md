@@ -2,6 +2,19 @@
 
 <h3 align="center">Researcher in training &nbsp;|&nbsp; ML • CV • NLP &nbsp;|&nbsp; Building things I don't fully understand yet</h3>
 
+
+
+<!-- ADD IT HERE, before the GIF -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=LLM+Interpretability+%7C+Multimodal+Systems;CV+%7C+NLP+%7C+Speech+Signals;BS+Data+Science+%40+IISER+Bhopal;Open+to+Research+Collabs!" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/..." width="500">
+</p> -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 <br><br>
